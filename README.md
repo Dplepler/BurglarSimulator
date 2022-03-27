@@ -1,2 +1,2 @@
 # BurglarSimulator
-Game I made July - August 2020
+Importing project didn't seem to work :(
